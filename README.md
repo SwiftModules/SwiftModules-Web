@@ -6,4 +6,4 @@ porting these existing libraries together.
 
 We can use GitHub to coordinate the work and stay in touch using [Slack](http://swiftmodules.slack.com).
 
-If you are interested in joining the effort please message me on Twitter at [@brennanSV](http://twitter.com/brennanSV).
+If you are interested in joining the effort please message me on Twitter at [@SwiftModules](http://twitter.com/SwiftModules).
